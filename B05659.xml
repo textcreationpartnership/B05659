@@ -1,0 +1,249 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation, for in-bringing the accompt of all the hearths in this kingdom.</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05659</idno>
+            <idno type="STC">Wing S1874</idno>
+            <idno type="STC">ESTC R183517</idno>
+            <idno type="EEBO-CITATION">52528979</idno>
+            <idno type="OCLC">ocm 52528979</idno>
+            <idno type="VID">179078</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05659)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179078)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2776:67)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation, for in-bringing the accompt of all the hearths in this kingdom.</title>
+                  <author>Scotland. Privy Council.</author>
+                  <author>Scotland. Sovereign (1689-1694 : William and Mary)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson, Printer to their most excellent [Majesties,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Initial letter.</note>
+                  <note>Dated: Given under Our Signet at Edinburgh, the 29th day of September. And of Our Reign the second year.</note>
+                  <note>Signed: Gilb. Eliot. Cls. Sti. Concilii.</note>
+                  <note>Imperfect: torn with some loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hearth-money --  Scotland --  Early works to 1800.</term>
+               <term>Tax collection --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:179078:1"/>
+            <head>
+               <hi>A PROCLAMATION,</hi> For In-bringing the Accompt of all the Hearths in this Kingdom.</head>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">W</seg>ILLIAM and MARY by the Grace of GOD, King and Queen of <hi>Great-Britain, France</hi> and <hi>Ireland,</hi> Defenders of the Fait<gap reason="illegible: torn page" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </signed>
+               <salute>To Our Lovits, Macers of our Privy Council, Meſſengers at Arms, our Sheriffs in that part conjunctly and ſeverally, ſpecially conſtitute Greeting:</salute>
+            </opener>
+            <p>Whereas the Eſtates of Parliament of our Antient Kingdom of <hi>Scotland,</hi> by their <hi>Act</hi> of the date the tenth day of <hi>Se<gap reason="illegible: torn page" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tember</hi> Current, upon the particular Conſiderations therein-expreſt; And in Lieu and Recompenſe of the ſixth part of the Annualren<gap reason="illegible: torn page" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Annuities for one year, granted to Us by an Act of the ſecond Seſſion of Our Parliament: Have made an humble Tender and Offe<gap reason="illegible: torn page" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to Us, of Three Moneths Supply payable at the Term of Martinmaſs next, and the Sum of Fourteen Shilling <hi>Scots</hi> for every Hearth with in this 0ur Kingdom, to be payed at <hi>Candlmaſs</hi> next to come, one thouſand ſix hundred and nintie one, by the Inhabitants dwelling in the Houſe where the ſaids Hearths are, without exception or exemption of any, except the Hearths of Hoſpitals and poor People, who are upon the Charity of the Paroch; And where any Houſes are not Inhabited, that the ſaid Hearth-money ſhall be payed by the Heretors or propper Wodſetters to whom the ſam<gap reason="illegible: torn page" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> for the time doth belong: And by which Act it is Declared, that the Hearth-money, and the three Moneths Supply thereby given to Us, ſhall in the firſt place be Applyed for payment of the Sums due to the ſeveral Shires and Burghs of this Our Antient Kingdom, Furniſhed, Advanced or Payed by them to Our Forces, the ſamen being inſtructed and liquidat, according to the rule preſcribed by the third Act of the Parliament one thouſand ſix hundred eightie one; And likewiſe for payment of the bygone Arriers due to Our Army. And We Reſolving, that the foreſaid Impoſition of Fourteen Shilling <hi>Scots</hi> granted to Us for every Hearth within Our Kingdom, alſwell as the ſaid Three Moneths Supply, ſhall in the firſt place be applyed to the Effect above-written. And Conſidering, that by an other Act of the Third Seſſion of Our Current Parliament, of the date the ſaid tenth day of <hi>September</hi> inſtant, The Lords of our Privy Council, are Impowered to give ſuch Orders for Collecting and Ingathering of the ſaid Hearth-Money granted to Us by the foreſaid Act of Parliament, as they ſhall judge ſit; Therefore, We with Advice of Our Privy Council, hereby peremptorly Command and Require, the Magiſtrats of our Burghs Royal, on this ſide of the water of <hi>Tay,</hi> betwixt and the fifteenth day of <hi>October</hi> next, and theſe beyond the ſame<gap reason="illegible: torn page" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> betwixt and the Twenty day of the ſaid Moneth of <hi>October</hi> next, to meet in their ſeveral Burghs, and make a true and exact Tryal and Inquiry what num<g ref="char:EOLhyphen"/>ber of Houſes and Tenements, Milns, Smiddies, Kills for drying of Grain, Ovens, Furnaces for Brewing, Salt-pan<gap reason="illegible: torn page" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ap, and Glaſs-works are within their reſpective Jurisdictions and Liberties, as well theſe Inhabited, as theſe which are Waſte, and who are the Poſſeſſo<gap reason="illegible: torn page" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he houſes, and others forſaids In<g ref="char:EOLhyphen"/>habited, and who are the owners of ſuch as are waſte, (excepting always Hoſpitals, and the houſes of poor People, w<gap reason="illegible: torn page" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e upon the Charity of the ſever<gap reason="illegible: torn page" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Burghs) and what number of Hearths are in each Houſe, Lodging or Tenement and others foreſaids, and what the total Number of theſe Hearths do<gap reason="illegible: torn page" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> mount to, and tranſmit an Duplicat thereof under their Hands to the Clerks of our Privy Council, conform to the ſaid Act Parliament, betwixt and the <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> following, <hi>viz.</hi> the Burrows on this ſide of the water <hi>Tay</hi> betwixt and the firſt of <hi>November</hi> next, &amp; theſe beyond the <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> betwixt &amp; the tenth day <gap reason="illegible: torn page" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the ſaid moneth. And We with Advice of the ſaids Lords of Our Privy Council, Do in like manner ſtrictly Require and Command, all the Heretor<gap reason="illegible: torn page" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Liferenters, and proper Wodſetters, and the Tutors or Curators of ſuch of them as are Minors, and the Factors and Chamberlains of ſuch as live n<gap reason="illegible: torn page" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> on the place, or are abſent forth of this Our Realm, in the ſeveral Paroches on this ſide of the Water of <hi>Tay,</hi> to meet at the Paroch-Kirk of the ſaid reſpective Paroches, at any time betwixt and the twenty day of <hi>October</hi> next to come; and the Heretors, and others foreſaids beyond the ſaid Wa<g ref="char:EOLhyphen"/>ter of <hi>Tay,</hi> to meet at the Paroch Kirk of the ſaids Parocbes <hi>reſpective,</hi> at any time betwixt and the twenty fifth day of the <gap reason="illegible: torn page" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>id Moneth of <hi>October</hi> next and to make true and exact Liſts, what number of Hearths are in the ſeveral Houſes and others foreſaids of the <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>longing to the Heretors Liferenters and proper Wodſetters themſelves, and how many Hearths are in the ſeveral Roums, Steids and Hou<gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> each Heretor, ſet to<gap reason="illegible: torn page" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> their Tennents, Sub-tennents, Cottars and others, or waſte and un-inhabited within their Ground, and the names <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> who are the Poſſeſſors, and Proprietars thereof, (excepting always Hoſpitals, and the Houſes of poor people, who are upon the Charity of <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ch in manner foreſaid) and what is the total number of the Hearths as aforeſaid of the reſpective Paroches; And We appoint all, or the major <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>em who ſhall be preſent, to ſubſcribe the ſaid Accompt, and Tranſmit the ſame to the Commiſſioners of Supply, or their Clerks, within the reſ<gap reason="illegible: torn page" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>es and Stewartries, whom We hereby appoint to meet at the Head-Burghs of the ſeveral Shires or Stewartries, where the Stewartries lyes nor <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> any <gap reason="illegible: torn page" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> dayes, after the reſpective laſt dyets appointed for Meeting of the Heretors, and there to examine out of what <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> take the moſt effectual and ſpeedy courſe for making full and true Liſts of all the Hearths above ſpecified within the <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Liſts to be reported to them, whether by appointing particular perſons for making up the exact Liſts of theſe <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> think ſit. And We Ordain the Clerks of the ſaid, Commiſſioners of Supply, carefully to Tranſmit the ſaids w<gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Council, betwixt and the dayes following, To wit, Theſe on this ſide of the Water of <hi>Tay,</hi> betwixt and the fifth <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> theſe beyond the famine, betwixt and the fifteenth day of the ſaid Moneth of <hi>November.</hi> And We do hereby Decl<gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Liferenters or proper Wodſetters, or others foreſaids, who ſhall meet the ſaids days, albeit there be but one of them, <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> effect above-written. And We Command the Magiſtrats of Our Burrows-Royal, and the Heretors, Liferenters an<gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſaids of the Landward Paroches, to give exact and punctual obedience to Our Commands in the Premiſſes, as the <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> perril; With Certification to ſuch who ſhall contemn or neglect the famine, they ſhall be Charged to the effect above <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> on; and in caſe they ſhall prove Contumacious and Diſobedient, that they ſhall be Denounced Our Rebels, and <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> be inbrought to Our uſe. Our Will is herefore, and We Charge you ſtraitly and Command, that incontinent theſe <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Mercat-Croſs of <hi>Edinburgh,</hi> and to the remanent Mercat-Croſſes of the Head-Burghs of the ſeveral Shires and Stewartries <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Our Name and Authority make publication hereof. And We with Advice foreſaid, Ordain the Sheriffs and Stewar<gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Stewartries, and where there are no Sheriffs or Stewart-Clerks, the Clerks to the Commiſſioners of Supply, to ca<gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> burghs of the ſeveral Shires and Stewartries, and tranſmit a Copy thereof to each one of the Royal Burrows, and to <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>riſdictions, to be publickly read the Sabbath following, after the Forenoons Sermon, in the Church or Meeting-hou<gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> otherways, in caſe there be no Preaching, in the Paroch, to one of the Heretors thereof, that he may make Intimation <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>retors, Liferenters and proper Wodſetters, and others foreſaids within the Paroch, who ſhall be obliged to meet and <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>der the former Certification.</p>
+            <closer>
+               <dateline>Given under Our Signet at Edinburgh, <date>the 29th day of <hi>September.</hi> And of Our Reign the ſecon<gap reason="illegible: torn page" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </date>
+               </dateline>
+               <signed>Per Actum Do<gap reason="illegible: torn page" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>GILB</hi> 
+                  <gap reason="illegible: torn page" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </signed>
+            </closer>
+            <closer>GOD ſave King <hi>VVilliam</hi> and Queen <hi>Mary.</hi>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to Their moſt Excellent <gap reason="illegible: torn page" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
